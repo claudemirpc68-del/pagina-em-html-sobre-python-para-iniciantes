@@ -1,5 +1,5 @@
 # pagina-em-html-sobre-python-para-iniciantes
-PYTHON PARA INICIANTES 
+PYTHON PARA INICIANTES ELABORADO POR CLAUDEMIR PEDROSO CUBAS COM AUXILIO DA IA DEEPSEEK
 [deepseek_html_20250904_0365e2.html](https://github.com/user-attachments/files/22163839/deepseek_html_20250904_0365e2.html)
 <!DOCTYPE html>
 <html lang="pt-BR">
